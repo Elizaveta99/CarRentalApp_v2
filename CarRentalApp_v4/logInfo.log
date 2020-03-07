@@ -1,0 +1,12 @@
+17:24:13.522 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:26:16.607 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:31:01.484 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:31:47.326 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:33:06.301 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:35:38.675 [main] INFO  Controller.JpaDAORequest - Returned all requests successfully.
+17:35:45.657 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:39:45.794 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:54:23.060 [main] INFO  Controller.JpaDAORequest - Returned all requests successfully.
+17:55:11.559 [main] INFO  Controller.JpaDAOClient - Returned client by id successfully.
+17:55:14.424 [main] INFO  Controller.JpaDAORequest - Returned all requests successfully.
+17:59:40.770 [main] INFO  Controller.JpaDAORequest - Returned all requests successfully.
